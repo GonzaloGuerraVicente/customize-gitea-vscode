@@ -1,4 +1,4 @@
-# Custom template for Gitea 1.9.6
+# Custom template for Gitea 1.11.6
 Add `VS` button to repository home page, this new button allows to clone the repository to VSCODE directly.
 
 ## Windows browser configuring
