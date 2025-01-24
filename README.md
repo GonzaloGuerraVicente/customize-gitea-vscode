@@ -1,3 +1,6 @@
+> [!CAUTION]
+> Archived due to Gitea standard already allows "Open with VS Code" in latest versions
+
 # Custom template for Gitea 1.13.0
 Add `VS` button to repository home page, this new button allows to clone the repository to VSCODE directly.
 
